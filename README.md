@@ -1,5 +1,5 @@
 # 👋 About Me:
-💼 I’m looking to work as a programmer.<br>⭐ Aspiring Software Engineer.<br>🌱 I’m currently learning Python data analysis, Foundations of C#, and JavaScript Algorithms and Data Structures with FreeCodeCamp.<br>🔍 Check out my projects!
+💼 I’m looking to work as a programmer.<br>⭐ Aspiring Software Engineer.<br>🌱 I’m currently learning Python Data Analysis, Foundations of C#, and JavaScript Algorithms and Data Structures with FreeCodeCamp.<br>⌛ Next on my study agenda: JavaScript Algorithms and Data Structures.<br>🔍 Check out my projects!
 
 
 ## 🌐 Socials:
