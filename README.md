@@ -1,5 +1,5 @@
 # 👋 About Me:
-💼 I’m looking to work as a Python Developer.<br>🌱 I’m currently learning Python Data Analysis at FreeCodeCamp.org<br>⌛ Next on my study agenda: JavaScript Algorithms and Data Structures.<br>🔍 Check out my projects!
+💼 I’m open to work!<br>🌱 I’m currently learning Python Data Analysis at FreeCodeCamp.org<br>⌛ Next on my study agenda: JavaScript Algorithms and Data Structures.<br>🔍 Check out my projects!
 
 
 ## 🌐 Socials:
